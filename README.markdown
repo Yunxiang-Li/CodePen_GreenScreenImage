@@ -63,7 +63,3 @@ You can check and modify html, css and javascript codes in ```src``` folder.
 ## Maintainers
 
 [@Yunxiang-Li](https://github.com/Yunxiang-Li).
-
-## License
-
-[MIT license](https://github.com/Yunxiang-Li/CS61B/blob/master/LICENSE)
