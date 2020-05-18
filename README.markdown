@@ -2,8 +2,6 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Kitzukikokone/pen/rNOGrzp](https://codepen.io/Kitzukikokone/pen/rNOGrzp).
-
 ## Table of Contents
 
 - [Background](#Background)
@@ -12,7 +10,6 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/Kitzukikokone/pen
 - [Usage](#usage)
 - [Structure](#Structure)
 - [Maintainers](#Maintainers)
-- [License](#license)
 
 ## Background
 This is a very simple Green Screen Image processing program made on CodePen.io according to the [Duke University](https://duke.edu/)'s coursera course [Programming Foundations with JavaScript, HTML and CSS](https://www-cloudfront-alias.coursera.org/learn/duke-programming-web/home/welcome).
@@ -31,40 +28,33 @@ All example images are from [here](https://www.dukelearntoprogram.com/course1/gr
 
 ## Install
 
-I only use CodePen.io[https://codepen.io/] itself in this tiny project.<br>
+I only use [CodePen.io](https://codepen.io/) itself in this tiny project.<br>
 
 ## Usage
 
-1.Download this repo,open(or zip and open) the **Unity_Simple-Solar-System-Simulation** folder.
+1.Download this repo,open(or zip and open).
 
-2.Open the **Assets** folder, then open the **Scenes** folder.
+2.You may open the **src** folder to check html, css and javascript source codes.
 
-3.Finally double click **Solar System.unity** to open this project in unity.
+3.You may also access my [CodePen](https://codepen.io/Kitzukikokone/pen/rNOGrzp) to visualize and try the Green Screen Image process directly.
 
-4.You may need a little bit more time to wait for downloading some additional resource.
+4.You may also build a new CodePen project on your own. Copy my source codes, paste them to relative sections and do your own custom modifications.
 
-**You can use mouse to left click on each planet, then the view will be changed as the clicked planet is always in the center of the view. You can change view both by left clicking each planet directly or just clicking each on the map in the left bottom corner.**
+**To use this program better, for the left image uploader, try to upload a image with green screen as background and some figures as foreground. For the right image uploader, try to upload a image which will replace the left side image's green screen.**
 
 ## Structure
 
-The whole project in Unity contains two main folders, **Assets** folder and **Package** folder.<br>
+The whole project in Unity contains four main folders, **src** folder, **dist** folder, **Pictures** folder and **Gifs** folder.<br>
+
 Under **Assets** folder, there are altogether 6 subfolders:
-```
-1.Materials folder: contains all materials need for each planet and the universe.
 
-2.Plugins folder: Plugins/Editor/JetBrains, creates for JetBrains Rider IDE.
+```src``` folder stands for source, which means **raw codes** before minification or concatenation or some other compilation - used to read/edit the code.
 
-3.Scences folder: contains the main scence(Solar System) of the project.
+```dist``` folder stands for distribution, and is the **minified/concatenated** version - actually used on production sites(CodePen here).
 
-4.Scripts folder: contains all three C# scripts. RotateAround script for letting each planet
-to rotate(both rotation and revolution),FollowAtTarget script for setting camera to follow a 
-target object through aiming at its positive z axis and ChangeLookAtTarget script for setting
-camera to look at another target object when we click the left mouse button upon that target object.
+```Pictures``` folder stands for pictures I used in this repo.
 
-5.Sounds folder: contains all sounds files of each planet.
-
-6.Textures folder: contains all textures for each planet and the universe.
-```
+```GIFs``` folder stands for GIFs I used in this repo.
 
 ## Maintainers
 
