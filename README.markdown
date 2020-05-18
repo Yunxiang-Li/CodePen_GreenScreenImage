@@ -19,6 +19,8 @@ This is a very simple Green Screen Image processing program made on CodePen.io a
 
 ## Exhibition
 
+All example images are from [here](https://www.dukelearntoprogram.com/course1/greenscreencode/).
+
 ![Start Page](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition1.PNG)
 
 ![Exhibition 1](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition2.PNG)
@@ -29,11 +31,7 @@ This is a very simple Green Screen Image processing program made on CodePen.io a
 
 ## Install
 
-I use Unity2018.2.19 and JetBrain's Rider IDE for this project under Windows 10 environment.<br>
-[Unity and Unity hub download](https://unity3d.com/get-unity/download)<br>
-[archived Unity download ](https://unity3d.com/get-unity/download/archive)<br>
-[Jetbrains Rider download](https://www.jetbrains.com/rider/download/#section=windows)
-
+I only use CodePen.io[https://codepen.io/] itself in this tiny project.<br>
 
 ## Usage
 
