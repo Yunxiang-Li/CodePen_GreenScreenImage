@@ -49,6 +49,7 @@ The whole project in Unity contains four main folders, **src** folder, **dist** 
 Under **Assets** folder, there are altogether 6 subfolders:
 
 ```src``` folder stands for source, which means **raw codes** before minification or concatenation or some other compilation - used to read/edit the code.
+
 You can check and modify html, css and javascript codes in ```src``` folder.
 
 ```dist``` folder stands for distribution, and is the **minified/concatenated** version - actually used on production sites(CodePen here).
