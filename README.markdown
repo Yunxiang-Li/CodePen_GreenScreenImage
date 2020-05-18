@@ -18,6 +18,8 @@ This is a very simple Green Screen Image processing program made on CodePen.io a
 
 All example images are from [here](https://www.dukelearntoprogram.com/course1/greenscreencode/).
 
+![GIF](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/GIFs/11.gif)
+
 ![Start Page](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition1.PNG)
 
 ![Exhibition 1](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition2.PNG)
