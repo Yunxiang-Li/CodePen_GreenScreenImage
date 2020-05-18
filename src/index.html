@@ -1,0 +1,47 @@
+<!-- studied from Duke University in Coursera -->
+
+<!-- add script source to enable SimpleImage function -->
+
+<script
+src = https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js.>
+</script>
+
+<!-- head one -->
+<h1>
+  Upload your image
+</h1>
+
+<!-- left canvas initialize its id -->
+<canvas id = 'c1'>
+</canvas>
+
+<!-- left canvas initialize its id -->
+<canvas id = 'c2'>
+</canvas>
+
+<p>
+  Filename:
+  
+  <!-- left Image file input for the foreground Image.
+  when upload file, run loadForegroundImage function -->
+  <input type = 'file' multiple = 'false'
+   accept = 'image/*' id = 'fore' onchange = '    loadForegroundImage()'>
+  
+  <!-- right Image file input for the background Image
+  when upload file, run loadBackgroundImage function -->
+  <input type = 'file' multiple = 'false'
+   accept = 'image/*' id = 'back' onchange = 'loadBackgroundImage()'>
+</p>
+
+<p>
+   <!-- left button for create composite -->
+   <!-- when user click left button, run doGreenScreen function -->
+   <input type = 'button' value = 'Create Composite'
+   id = 'button1' onclick = 'doGreenScreen()'>
+  
+   <!-- right button for clear canvas -->
+   <!-- when user click right button, run clearCanvas function -->
+   <input type = 'button' value = 'Clear Canvas'
+   id = 'button2' onclick = 'clearCanvas()'>
+ 
+</p>

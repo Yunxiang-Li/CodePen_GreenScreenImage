@@ -1,0 +1,14 @@
+/*style for the head one*/
+h1{
+  font-style: italic;
+  color:green;
+  margin:20px
+}
+
+/*style for the two canvas*/
+canvas{
+  height:400px;
+  width:300px;
+  border:2px solid red;
+}
+
