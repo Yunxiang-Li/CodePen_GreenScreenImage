@@ -12,7 +12,7 @@
 - [Maintainers](#Maintainers)
 
 ## Background
-This is a very simple Green Screen Image processing program made on CodePen.io according to the [Duke University](https://duke.edu/)'s coursera course [Programming Foundations with JavaScript, HTML and CSS](https://www-cloudfront-alias.coursera.org/learn/duke-programming-web/home/welcome).
+This is a very simple Green Screen Image replacing program made on CodePen.io according to the [Duke University](https://duke.edu/)'s coursera course [Programming Foundations with JavaScript, HTML and CSS](https://www-cloudfront-alias.coursera.org/learn/duke-programming-web/home/welcome).
 
 ## Exhibition
 
