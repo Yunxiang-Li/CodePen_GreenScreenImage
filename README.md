@@ -10,6 +10,7 @@
 - [Usage](#usage)
 - [Structure](#Structure)
 - [Maintainers](#Maintainers)
+- [License](#license)
 
 ## Background
 This is a very simple Green Screen Image replacing program made on CodePen.io according to the [Duke University](https://duke.edu/)'s coursera course [Programming Foundations with JavaScript, HTML and CSS](https://www-cloudfront-alias.coursera.org/learn/duke-programming-web/home/welcome).
@@ -63,3 +64,7 @@ You can check and modify html, css and javascript codes in ```src``` folder.
 ## Maintainers
 
 [@Yunxiang-Li](https://github.com/Yunxiang-Li).
+
+## License
+
+[MIT license](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/LICENSE)
