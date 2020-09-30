@@ -19,15 +19,15 @@ This is a very simple Green Screen Image replacing program made on CodePen.io ac
 
 All example images are from [here](https://www.dukelearntoprogram.com/course1/greenscreencode/).
 
-![GIF](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/GIFs/exhibition.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/GIFs/exhibition.gif"/> </div>
 
-![Start Page](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition1.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition1.PNG"/> </div>
 
-![Exhibition 1](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition2.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition2.PNG"/> </div>
 
-![Exhibition 2](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition3.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition3.PNG"/> </div>
 
-![Exhibition 3](https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition4.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_GreenScreenImage/blob/master/Pictures/exhibition4.PNG"/> </div>
 
 ## Install
 
